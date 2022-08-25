@@ -1,5 +1,4 @@
 # Wolfram
-
 I decided to program the Wolfram Cellular Automata since the subject intersts me. And I wanted to practice recursion.
 I chose the C language since I'm familiar with it, and I love its performance. I might remake the project in Haskell
 to explore a different paradigm and works in recursion only.
